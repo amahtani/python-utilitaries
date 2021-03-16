@@ -1,0 +1,77 @@
+<annotation>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>11</id>
+      <name>Task 6</name>
+      <size>500</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2019-09-13 09:45:30.791004+00:00</created>
+      <updated>2019-09-13 10:52:56.171553+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <z_order>False</z_order>
+      <labels>
+        <label>
+          <name>Train</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>PN</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gare</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>tunnel</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>agentSNCF</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>personne</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>pont</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>10</id>
+          <start>0</start>
+          <stop>499</stop>
+          <url>http://localhost:8080/?id=10</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>nsellami</username>
+        <email>nesrine.sellami@altran.com</email>
+      </owner>
+      <assignee></assignee>
+    </task>
+    <dumped>2019-09-13 10:53:36.827135+00:00</dumped>
+  </meta>
+  <image id="0" name="image1501.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="416.10" ytl="389.52" xbr="480.58" ybr="526.37">
+    </box>
+  </image>
+  <image id="1" name="image1502.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="418.74" ytl="385.58" xbr="481.89" ybr="522.42">
+    </box>
+</annotations>

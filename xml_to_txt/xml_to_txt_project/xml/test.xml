@@ -1,0 +1,2080 @@
+<annotation>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>11</id>
+      <name>Task 6</name>
+      <size>500</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2019-09-13 09:45:30.791004+00:00</created>
+      <updated>2019-09-13 10:52:56.171553+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <z_order>False</z_order>
+      <labels>
+        <label>
+          <name>Train</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>PN</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gare</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>tunnel</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>agentSNCF</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>personne</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>pont</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>10</id>
+          <start>0</start>
+          <stop>499</stop>
+          <url>http://localhost:8080/?id=10</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>nsellami</username>
+        <email>nesrine.sellami@altran.com</email>
+      </owner>
+      <assignee></assignee>
+    </task>
+    <dumped>2019-09-13 10:53:36.827135+00:00</dumped>
+  </meta>
+  <image id="0" name="image1501.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="416.10" ytl="389.52" xbr="480.58" ybr="526.37">
+    </box>
+  </image>
+  <image id="1" name="image1502.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="418.74" ytl="385.58" xbr="481.89" ybr="522.42">
+    </box>
+  </image>
+  <image id="2" name="image1503.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="410.84" ytl="394.79" xbr="481.89" ybr="536.90">
+    </box>
+  </image>
+  <image id="3" name="image1504.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="404.26" ytl="401.37" xbr="477.95" ybr="540.84">
+    </box>
+  </image>
+  <image id="4" name="image1505.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="402.95" ytl="405.31" xbr="481.90" ybr="532.95">
+    </box>
+  </image>
+  <image id="5" name="image1506.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="400.32" ytl="397.42" xbr="467.42" ybr="535.58">
+    </box>
+  </image>
+  <image id="6" name="image1507.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="396.37" ytl="409.30" xbr="470.05" ybr="557.95">
+    </box>
+  </image>
+  <image id="7" name="image1508.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="396.37" ytl="404.00" xbr="459.53" ybr="552.69">
+    </box>
+  </image>
+  <image id="8" name="image1509.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="388.47" ytl="401.37" xbr="458.21" ybr="557.95">
+    </box>
+  </image>
+  <image id="9" name="image1510.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="381.89" ytl="414.52" xbr="455.58" ybr="557.95">
+    </box>
+  </image>
+  <image id="10" name="image1511.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="370.05" ytl="410.58" xbr="449.00" ybr="563.21">
+    </box>
+  </image>
+  <image id="11" name="image1512.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="359.52" ytl="419.79" xbr="445.05" ybr="573.74">
+    </box>
+  </image>
+  <image id="12" name="image1513.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="356.89" ytl="419.79" xbr="439.79" ybr="577.69">
+    </box>
+  </image>
+  <image id="13" name="image1514.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="359.52" ytl="419.79" xbr="434.53" ybr="596.11">
+    </box>
+  </image>
+  <image id="14" name="image1515.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="350.31" ytl="427.68" xbr="430.58" ybr="593.48">
+    </box>
+  </image>
+  <image id="15" name="image1516.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="343.73" ytl="427.68" xbr="424.00" ybr="614.53">
+    </box>
+  </image>
+  <image id="16" name="image1517.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="325.31" ytl="435.58" xbr="417.42" ybr="621.11">
+    </box>
+  </image>
+  <image id="17" name="image1518.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="316.10" ytl="439.53" xbr="416.10" ybr="632.95">
+    </box>
+  </image>
+  <image id="18" name="image1519.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="318.73" ytl="443.47" xbr="404.26" ybr="632.95">
+    </box>
+  </image>
+  <image id="19" name="image1520.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="313.47" ytl="446.10" xbr="400.31" ybr="647.42">
+    </box>
+  </image>
+  <image id="20" name="image1521.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="293.73" ytl="456.63" xbr="391.10" ybr="654.00">
+    </box>
+  </image>
+  <image id="21" name="image1522.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="276.63" ytl="456.63" xbr="383.21" ybr="661.90">
+    </box>
+  </image>
+  <image id="22" name="image1523.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="266.10" ytl="452.68" xbr="380.58" ybr="680.32">
+    </box>
+  </image>
+  <image id="23" name="image1524.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="259.52" ytl="464.53" xbr="356.89" ybr="690.85">
+    </box>
+  </image>
+  <image id="24" name="image1525.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="245.05" ytl="464.53" xbr="350.31" ybr="706.64">
+    </box>
+  </image>
+  <image id="25" name="image1526.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="234.52" ytl="472.42" xbr="341.10" ybr="701.37">
+    </box>
+  </image>
+  <image id="26" name="image1527.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="216.10" ytl="469.79" xbr="325.31" ybr="743.48">
+    </box>
+  </image>
+  <image id="27" name="image1528.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="193.73" ytl="490.84" xbr="308.21" ybr="740.85">
+    </box>
+  </image>
+  <image id="28" name="image1529.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="177.94" ytl="484.26" xbr="301.63" ybr="756.64">
+    </box>
+  </image>
+  <image id="29" name="image1530.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="156.89" ytl="504.00" xbr="283.21" ybr="760.59">
+    </box>
+  </image>
+  <image id="42" name="image1543.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="189.75" ytl="343.50" xbr="221.36" ybr="390.84">
+    </box>
+  </image>
+  <image id="43" name="image1544.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="187.15" ytl="336.89" xbr="214.78" ybr="400.05">
+    </box>
+  </image>
+  <image id="44" name="image1545.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="187.15" ytl="340.84" xbr="217.42" ybr="406.63">
+    </box>
+  </image>
+  <image id="45" name="image1546.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="180.57" ytl="339.52" xbr="216.10" ybr="397.42">
+    </box>
+  </image>
+  <image id="46" name="image1547.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="187.15" ytl="348.73" xbr="209.52" ybr="390.84">
+    </box>
+  </image>
+  <image id="47" name="image1548.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="177.94" ytl="340.84" xbr="209.52" ybr="398.73">
+    </box>
+  </image>
+  <image id="48" name="image1549.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="177.94" ytl="338.21" xbr="214.78" ybr="402.68">
+    </box>
+  </image>
+  <image id="49" name="image1550.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="175.31" ytl="346.10" xbr="204.26" ybr="406.63">
+    </box>
+  </image>
+  <image id="50" name="image1551.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="176.62" ytl="342.16" xbr="209.52" ybr="405.31">
+    </box>
+  </image>
+  <image id="51" name="image1552.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="172.68" ytl="338.21" xbr="208.20" ybr="406.63">
+    </box>
+  </image>
+  <image id="52" name="image1553.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="167.41" ytl="336.89" xbr="197.68" ybr="409.26">
+    </box>
+  </image>
+  <image id="53" name="image1554.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="167.42" ytl="344.79" xbr="198.99" ybr="402.68">
+    </box>
+  </image>
+  <image id="54" name="image1555.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="170.05" ytl="340.84" xbr="196.36" ybr="398.73">
+    </box>
+  </image>
+  <image id="55" name="image1556.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="162.15" ytl="344.79" xbr="201.63" ybr="406.63">
+    </box>
+  </image>
+  <image id="56" name="image1557.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="160.83" ytl="344.79" xbr="196.36" ybr="406.63">
+    </box>
+  </image>
+  <image id="57" name="image1558.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="159.52" ytl="340.84" xbr="193.73" ybr="410.58">
+    </box>
+  </image>
+  <image id="58" name="image1559.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="156.89" ytl="336.89" xbr="196.36" ybr="411.89">
+    </box>
+  </image>
+  <image id="59" name="image1560.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="159.52" ytl="351.37" xbr="188.47" ybr="409.26">
+    </box>
+  </image>
+  <image id="60" name="image1561.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="156.89" ytl="338.21" xbr="192.41" ybr="410.58">
+    </box>
+  </image>
+  <image id="61" name="image1562.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="150.31" ytl="351.37" xbr="185.84" ybr="414.53">
+    </box>
+  </image>
+  <image id="62" name="image1563.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="150.30" ytl="354.00" xbr="184.52" ybr="406.63">
+    </box>
+  </image>
+  <image id="63" name="image1564.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="147.68" ytl="352.68" xbr="185.84" ybr="410.60">
+    </box>
+  </image>
+  <image id="64" name="image1565.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="152.94" ytl="356.63" xbr="177.94" ybr="409.26">
+    </box>
+  </image>
+  <image id="65" name="image1566.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="145.04" ytl="355.30" xbr="179.26" ybr="417.16">
+    </box>
+  </image>
+  <image id="66" name="image1567.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="141.10" ytl="351.37" xbr="181.89" ybr="417.16">
+    </box>
+  </image>
+  <image id="67" name="image1568.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="139.78" ytl="351.37" xbr="183.20" ybr="425.05">
+    </box>
+  </image>
+  <image id="68" name="image1569.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="138.47" ytl="351.37" xbr="177.94" ybr="431.63">
+    </box>
+  </image>
+  <image id="69" name="image1570.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="133.20" ytl="351.37" xbr="177.94" ybr="429.00">
+    </box>
+  </image>
+  <image id="70" name="image1571.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="133.20" ytl="348.73" xbr="171.36" ybr="426.37">
+    </box>
+  </image>
+  <image id="71" name="image1572.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="131.89" ytl="351.37" xbr="173.99" ybr="422.42">
+    </box>
+  </image>
+  <image id="72" name="image1573.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="130.57" ytl="352.68" xbr="170.05" ybr="422.42">
+    </box>
+  </image>
+  <image id="73" name="image1574.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="129.25" ytl="348.73" xbr="167.41" ybr="426.37">
+    </box>
+  </image>
+  <image id="74" name="image1575.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="127.94" ytl="356.63" xbr="160.83" ybr="429.00">
+    </box>
+  </image>
+  <image id="75" name="image1576.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="125.31" ytl="351.37" xbr="164.78" ybr="425.05">
+    </box>
+  </image>
+  <image id="76" name="image1577.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="118.73" ytl="350.05" xbr="163.47" ybr="431.63">
+    </box>
+  </image>
+  <image id="77" name="image1578.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="117.41" ytl="354.00" xbr="159.52" ybr="427.68">
+    </box>
+  </image>
+  <image id="78" name="image1579.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="120.04" ytl="352.68" xbr="159.52" ybr="432.95">
+    </box>
+  </image>
+  <image id="79" name="image1580.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="122.68" ytl="356.63" xbr="158.20" ybr="431.63">
+    </box>
+  </image>
+  <image id="80" name="image1581.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="118.73" ytl="354.00" xbr="159.52" ybr="435.58">
+    </box>
+  </image>
+  <image id="81" name="image1582.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="113.47" ytl="354.00" xbr="154.26" ybr="427.68">
+    </box>
+  </image>
+  <image id="82" name="image1583.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="113.47" ytl="356.63" xbr="159.52" ybr="431.63">
+    </box>
+  </image>
+  <image id="83" name="image1584.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="106.89" ytl="354.00" xbr="154.26" ybr="427.68">
+    </box>
+  </image>
+  <image id="84" name="image1585.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="114.78" ytl="354.00" xbr="148.99" ybr="432.95">
+    </box>
+  </image>
+  <image id="85" name="image1586.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="112.15" ytl="364.52" xbr="154.26" ybr="442.16">
+    </box>
+  </image>
+  <image id="86" name="image1587.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="104.25" ytl="357.95" xbr="150.31" ybr="439.53">
+    </box>
+  </image>
+  <image id="87" name="image1588.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="102.94" ytl="359.26" xbr="150.31" ybr="440.84">
+    </box>
+  </image>
+  <image id="88" name="image1589.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="104.25" ytl="359.26" xbr="148.99" ybr="443.47">
+    </box>
+  </image>
+  <image id="89" name="image1590.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="102.94" ytl="363.21" xbr="146.36" ybr="440.84">
+    </box>
+  </image>
+  <image id="90" name="image1591.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="100.30" ytl="360.60" xbr="149.00" ybr="447.42">
+    </box>
+  </image>
+  <image id="91" name="image1592.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="98.99" ytl="355.31" xbr="142.41" ybr="447.42">
+    </box>
+  </image>
+  <image id="92" name="image1593.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="101.62" ytl="361.89" xbr="143.73" ybr="443.47">
+    </box>
+  </image>
+  <image id="93" name="image1594.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="101.62" ytl="361.89" xbr="141.10" ybr="443.47">
+    </box>
+  </image>
+  <image id="94" name="image1595.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="101.62" ytl="364.52" xbr="143.73" ybr="447.42">
+    </box>
+  </image>
+  <image id="95" name="image1596.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="98.99" ytl="368.47" xbr="138.47" ybr="451.37">
+    </box>
+  </image>
+  <image id="96" name="image1597.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="96.36" ytl="364.52" xbr="143.73" ybr="454.00">
+    </box>
+  </image>
+  <image id="97" name="image1598.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="98.99" ytl="372.42" xbr="142.41" ybr="452.68">
+    </box>
+  </image>
+  <image id="98" name="image1599.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="98.99" ytl="368.47" xbr="145.04" ybr="451.37">
+    </box>
+  </image>
+  <image id="99" name="image1600.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="101.62" ytl="368.47" xbr="141.10" ybr="457.95">
+    </box>
+  </image>
+  <image id="100" name="image1601.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="98.99" ytl="364.52" xbr="145.04" ybr="454.00">
+    </box>
+  </image>
+  <image id="101" name="image1602.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="104.25" ytl="371.10" xbr="151.62" ybr="455.31">
+    </box>
+  </image>
+  <image id="102" name="image1603.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="109.52" ytl="369.79" xbr="152.94" ybr="469.79">
+    </box>
+  </image>
+  <image id="103" name="image1604.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="109.52" ytl="372.42" xbr="164.78" ybr="467.16">
+    </box>
+  </image>
+  <image id="104" name="image1605.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="113.47" ytl="373.73" xbr="167.41" ybr="464.53">
+    </box>
+  </image>
+  <image id="105" name="image1606.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="133.20" ytl="368.47" xbr="176.60" ybr="463.21">
+    </box>
+  </image>
+  <image id="106" name="image1607.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="135.83" ytl="368.47" xbr="183.20" ybr="467.16">
+    </box>
+  </image>
+  <image id="107" name="image1608.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="141.10" ytl="372.42" xbr="187.15" ybr="472.42">
+    </box>
+  </image>
+  <image id="108" name="image1609.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="155.57" ytl="372.42" xbr="201.62" ybr="469.79">
+    </box>
+  </image>
+  <image id="109" name="image1610.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="170.04" ytl="361.89" xbr="214.78" ybr="467.16">
+    </box>
+  </image>
+  <image id="110" name="image1611.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="176.62" ytl="372.42" xbr="223.99" ybr="468.47">
+    </box>
+  </image>
+  <image id="111" name="image1612.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="189.78" ytl="368.47" xbr="235.84" ybr="473.74">
+    </box>
+  </image>
+  <image id="112" name="image1613.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="197.68" ytl="379.00" xbr="245.05" ybr="469.79">
+    </box>
+  </image>
+  <image id="113" name="image1614.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="206.89" ytl="373.73" xbr="256.89" ybr="472.42">
+    </box>
+  </image>
+  <image id="114" name="image1615.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="225.31" ytl="363.21" xbr="267.42" ybr="473.74">
+    </box>
+  </image>
+  <image id="115" name="image1616.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="234.52" ytl="372.42" xbr="287.15" ybr="472.42">
+    </box>
+  </image>
+  <image id="116" name="image1617.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="250.31" ytl="373.73" xbr="304.26" ybr="468.47">
+    </box>
+  </image>
+  <image id="117" name="image1618.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="264.79" ytl="364.52" xbr="308.21" ybr="468.47">
+    </box>
+  </image>
+  <image id="118" name="image1619.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="283.21" ytl="363.21" xbr="327.94" ybr="473.74">
+    </box>
+  </image>
+  <image id="119" name="image1620.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="284.52" ytl="368.47" xbr="337.16" ybr="476.37">
+    </box>
+  </image>
+  <image id="120" name="image1621.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="301.63" ytl="367.16" xbr="346.37" ybr="479.00">
+    </box>
+  </image>
+  <image id="121" name="image1622.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="310.84" ytl="375.05" xbr="363.47" ybr="465.84">
+    </box>
+  </image>
+  <image id="122" name="image1623.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="324.00" ytl="367.16" xbr="375.31" ybr="477.68">
+    </box>
+  </image>
+  <image id="123" name="image1624.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="339.79" ytl="367.16" xbr="392.42" ybr="475.05">
+    </box>
+  </image>
+  <image id="124" name="image1625.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="351.63" ytl="372.42" xbr="409.53" ybr="488.21">
+    </box>
+  </image>
+  <image id="125" name="image1626.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="362.16" ytl="375.05" xbr="414.79" ybr="493.47">
+    </box>
+  </image>
+  <image id="126" name="image1627.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="371.37" ytl="364.52" xbr="422.68" ybr="493.47">
+    </box>
+  </image>
+  <image id="127" name="image1628.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="377.95" ytl="368.47" xbr="434.53" ybr="489.53">
+    </box>
+  </image>
+  <image id="128" name="image1629.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="384.52" ytl="379.00" xbr="431.89" ybr="492.16">
+    </box>
+  </image>
+  <image id="129" name="image1630.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="387.16" ytl="388.21" xbr="439.79" ybr="496.11">
+    </box>
+  </image>
+  <image id="130" name="image1631.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="391.10" ytl="376.37" xbr="449.00" ybr="496.11">
+    </box>
+  </image>
+  <image id="131" name="image1632.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="396.37" ytl="388.21" xbr="454.26" ybr="509.26">
+    </box>
+  </image>
+  <image id="132" name="image1633.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="393.73" ytl="388.21" xbr="455.58" ybr="500.05">
+    </box>
+  </image>
+  <image id="133" name="image1634.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="393.73" ytl="392.16" xbr="467.42" ybr="507.95">
+    </box>
+  </image>
+  <image id="134" name="image1635.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="397.68" ytl="393.47" xbr="460.84" ybr="515.84">
+    </box>
+  </image>
+  <image id="135" name="image1636.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="392.42" ytl="394.79" xbr="460.84" ybr="517.16">
+    </box>
+  </image>
+  <image id="136" name="image1637.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="397.68" ytl="393.47" xbr="464.79" ybr="526.37">
+    </box>
+  </image>
+  <image id="137" name="image1638.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="393.73" ytl="396.10" xbr="454.26" ybr="526.37">
+    </box>
+  </image>
+  <image id="138" name="image1639.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="387.16" ytl="398.74" xbr="455.58" ybr="536.90">
+    </box>
+  </image>
+  <image id="139" name="image1640.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="385.84" ytl="404.00" xbr="443.74" ybr="540.84">
+    </box>
+  </image>
+  <image id="140" name="image1641.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="387.16" ytl="400.05" xbr="445.05" ybr="543.48">
+    </box>
+  </image>
+  <image id="141" name="image1642.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="376.63" ytl="406.63" xbr="435.84" ybr="544.79">
+    </box>
+  </image>
+  <image id="142" name="image1643.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="371.37" ytl="405.31" xbr="438.47" ybr="557.95">
+    </box>
+  </image>
+  <image id="143" name="image1644.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="360.84" ytl="410.58" xbr="433.21" ybr="556.63">
+    </box>
+  </image>
+  <image id="144" name="image1645.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="355.58" ytl="417.16" xbr="430.58" ybr="564.53">
+    </box>
+  </image>
+  <image id="145" name="image1646.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="354.26" ytl="406.63" xbr="425.31" ybr="577.69">
+    </box>
+  </image>
+  <image id="146" name="image1647.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="354.26" ytl="421.10" xbr="424.00" ybr="584.27">
+    </box>
+  </image>
+  <image id="147" name="image1648.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="343.73" ytl="414.52" xbr="417.42" ybr="598.74">
+    </box>
+  </image>
+  <image id="148" name="image1649.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="329.26" ytl="417.16" xbr="412.20" ybr="598.74">
+    </box>
+  </image>
+  <image id="149" name="image1650.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="324.00" ytl="425.05" xbr="401.63" ybr="605.32">
+    </box>
+  </image>
+  <image id="150" name="image1651.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="324.00" ytl="427.68" xbr="402.95" ybr="615.80">
+    </box>
+  </image>
+  <image id="151" name="image1652.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="314.79" ytl="427.68" xbr="393.74" ybr="632.95">
+    </box>
+  </image>
+  <image id="152" name="image1653.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="304.26" ytl="438.21" xbr="388.47" ybr="642.16">
+    </box>
+  </image>
+  <image id="153" name="image1654.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="291.10" ytl="438.21" xbr="380.58" ybr="642.16">
+    </box>
+  </image>
+  <image id="154" name="image1655.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="280.57" ytl="446.10" xbr="366.10" ybr="664.53">
+    </box>
+  </image>
+  <image id="155" name="image1656.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="270.05" ytl="451.37" xbr="366.10" ybr="679.00">
+    </box>
+  </image>
+  <image id="156" name="image1657.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="256.89" ytl="456.63" xbr="362.16" ybr="694.80">
+    </box>
+  </image>
+  <image id="157" name="image1658.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="243.73" ytl="464.53" xbr="346.37" ybr="701.37">
+    </box>
+  </image>
+  <image id="158" name="image1659.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="217.42" ytl="467.16" xbr="329.26" ybr="710.58">
+    </box>
+  </image>
+  <image id="159" name="image1660.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="187.15" ytl="488.21" xbr="330.58" ybr="748.74">
+    </box>
+  </image>
+  <image id="160" name="image1661.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="180.57" ytl="485.58" xbr="317.42" ybr="763.22">
+    </box>
+  </image>
+  <image id="161" name="image1662.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="160.83" ytl="493.47" xbr="287.15" ybr="761.90">
+    </box>
+  </image>
+  <image id="162" name="image1663.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="146.36" ytl="506.63" xbr="297.68" ybr="764.53">
+    </box>
+  </image>
+  <image id="163" name="image1664.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="117.41" ytl="505.32" xbr="250.31" ybr="763.22">
+    </box>
+  </image>
+  <image id="164" name="image1665.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="91.10" ytl="517.16" xbr="248.99" ybr="763.22">
+    </box>
+  </image>
+  <image id="165" name="image1666.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="67.41" ytl="527.68" xbr="220.05" ybr="763.22">
+    </box>
+  </image>
+  <image id="166" name="image1667.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="22.67" ytl="548.74" xbr="160.84" ybr="761.90">
+    </box>
+  </image>
+  <image id="167" name="image1668.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="6.88" ytl="563.21" xbr="145.04" ybr="761.90">
+    </box>
+  </image>
+  <image id="168" name="image1669.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="1.62" ytl="604.00" xbr="83.20" ybr="764.53">
+    </box>
+  </image>
+  <image id="170" name="image1671.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="176.62" ytl="382.95" xbr="234.52" ybr="530.32">
+    </box>
+  </image>
+  <image id="171" name="image1672.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="185.84" ytl="384.30" xbr="247.70" ybr="515.84">
+    </box>
+  </image>
+  <image id="172" name="image1673.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="188.47" ytl="380.31" xbr="251.63" ybr="515.84">
+    </box>
+  </image>
+  <image id="173" name="image1674.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="187.15" ytl="389.52" xbr="246.36" ybr="514.53">
+    </box>
+  </image>
+  <image id="174" name="image1675.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="193.73" ytl="380.31" xbr="251.63" ybr="510.58">
+    </box>
+  </image>
+  <image id="175" name="image1676.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="197.68" ytl="384.26" xbr="256.89" ybr="519.79">
+    </box>
+  </image>
+  <image id="176" name="image1677.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="201.62" ytl="382.95" xbr="264.78" ybr="514.53">
+    </box>
+  </image>
+  <image id="177" name="image1678.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="206.89" ytl="381.63" xbr="271.36" ybr="504.00">
+    </box>
+  </image>
+  <image id="178" name="image1679.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="214.78" ytl="379.00" xbr="267.42" ybr="504.00">
+    </box>
+  </image>
+  <image id="179" name="image1680.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="214.78" ytl="375.05" xbr="270.05" ybr="504.00">
+    </box>
+  </image>
+  <image id="180" name="image1681.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="218.73" ytl="372.42" xbr="271.36" ybr="504.00">
+    </box>
+  </image>
+  <image id="181" name="image1682.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="229.26" ytl="368.47" xbr="288.47" ybr="509.26">
+    </box>
+  </image>
+  <image id="182" name="image1683.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="234.52" ytl="359.26" xbr="288.47" ybr="488.21">
+    </box>
+  </image>
+  <image id="183" name="image1684.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="235.84" ytl="368.47" xbr="292.42" ybr="493.47">
+    </box>
+  </image>
+  <image id="184" name="image1685.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="235.84" ytl="379.00" xbr="288.47" ybr="488.21">
+    </box>
+  </image>
+  <image id="185" name="image1686.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="241.10" ytl="367.16" xbr="299.00" ybr="479.00">
+    </box>
+  </image>
+  <image id="186" name="image1687.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="250.31" ytl="381.63" xbr="299.00" ybr="488.21">
+    </box>
+  </image>
+  <image id="187" name="image1688.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="251.63" ytl="373.73" xbr="314.79" ybr="494.79">
+    </box>
+  </image>
+  <image id="188" name="image1689.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="264.79" ytl="368.47" xbr="317.42" ybr="480.32">
+    </box>
+  </image>
+  <image id="189" name="image1690.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="270.05" ytl="369.79" xbr="314.79" ybr="479.00">
+    </box>
+  </image>
+  <image id="190" name="image1691.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="267.42" ytl="373.73" xbr="318.73" ybr="485.58">
+    </box>
+  </image>
+  <image id="191" name="image1692.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="275.31" ytl="377.68" xbr="327.94" ybr="480.32">
+    </box>
+  </image>
+  <image id="192" name="image1693.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="285.84" ytl="363.21" xbr="338.47" ybr="479.00">
+    </box>
+  </image>
+  <image id="193" name="image1694.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="283.21" ytl="368.47" xbr="335.84" ybr="473.74">
+    </box>
+  </image>
+  <image id="194" name="image1695.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="280.57" ytl="369.79" xbr="335.84" ybr="475.05">
+    </box>
+  </image>
+  <image id="195" name="image1696.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="283.21" ytl="361.89" xbr="338.47" ybr="468.47">
+    </box>
+  </image>
+  <image id="196" name="image1697.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="287.15" ytl="357.95" xbr="335.84" ybr="477.68">
+    </box>
+  </image>
+  <image id="197" name="image1698.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="288.47" ytl="368.50" xbr="339.79" ybr="464.53">
+    </box>
+  </image>
+  <image id="198" name="image1699.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="293.73" ytl="361.89" xbr="347.70" ybr="472.42">
+    </box>
+  </image>
+  <image id="199" name="image1700.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="291.10" ytl="367.16" xbr="346.37" ybr="464.53">
+    </box>
+  </image>
+  <image id="200" name="image1701.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="292.42" ytl="367.16" xbr="343.73" ybr="457.95">
+    </box>
+  </image>
+  <image id="201" name="image1702.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="292.42" ytl="369.79" xbr="335.84" ybr="461.89">
+    </box>
+  </image>
+  <image id="202" name="image1703.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="295.05" ytl="364.52" xbr="342.42" ybr="457.95">
+    </box>
+  </image>
+  <image id="203" name="image1704.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="293.73" ytl="365.84" xbr="351.63" ybr="456.63">
+    </box>
+  </image>
+  <image id="204" name="image1705.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="296.37" ytl="361.89" xbr="351.63" ybr="456.63">
+    </box>
+  </image>
+  <image id="205" name="image1706.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="297.68" ytl="363.21" xbr="346.36" ybr="451.37">
+    </box>
+  </image>
+  <image id="206" name="image1707.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="301.63" ytl="360.58" xbr="355.58" ybr="468.47">
+    </box>
+  </image>
+  <image id="207" name="image1708.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="308.21" ytl="361.89" xbr="351.63" ybr="456.63">
+    </box>
+  </image>
+  <image id="208" name="image1709.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="306.89" ytl="357.95" xbr="351.63" ybr="454.00">
+    </box>
+  </image>
+  <image id="209" name="image1710.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="308.21" ytl="365.84" xbr="355.55" ybr="460.58">
+    </box>
+  </image>
+  <image id="210" name="image1711.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="309.52" ytl="368.47" xbr="355.58" ybr="443.47">
+    </box>
+  </image>
+  <image id="211" name="image1712.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="308.21" ytl="368.47" xbr="343.73" ybr="451.37">
+    </box>
+  </image>
+  <image id="212" name="image1713.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="306.89" ytl="364.52" xbr="350.31" ybr="447.42">
+    </box>
+  </image>
+  <image id="213" name="image1714.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="312.15" ytl="364.52" xbr="355.58" ybr="447.42">
+    </box>
+  </image>
+  <image id="214" name="image1715.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="309.52" ytl="363.21" xbr="359.52" ybr="454.00">
+    </box>
+  </image>
+  <image id="215" name="image1716.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="312.15" ytl="360.58" xbr="359.52" ybr="452.68">
+    </box>
+  </image>
+  <image id="216" name="image1717.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="313.47" ytl="361.89" xbr="359.52" ybr="459.26">
+    </box>
+  </image>
+  <image id="217" name="image1718.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="312.15" ytl="356.63" xbr="356.89" ybr="447.42">
+    </box>
+  </image>
+  <image id="218" name="image1719.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="314.79" ytl="363.21" xbr="356.89" ybr="448.74">
+    </box>
+  </image>
+  <image id="219" name="image1720.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="314.79" ytl="356.63" xbr="356.89" ybr="446.10">
+    </box>
+  </image>
+  <image id="220" name="image1721.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="316.10" ytl="359.26" xbr="363.47" ybr="448.74">
+    </box>
+  </image>
+  <image id="221" name="image1722.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="317.42" ytl="359.26" xbr="366.10" ybr="442.16">
+    </box>
+  </image>
+  <image id="222" name="image1723.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="316.10" ytl="360.58" xbr="364.79" ybr="450.05">
+    </box>
+  </image>
+  <image id="223" name="image1724.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="317.42" ytl="363.21" xbr="360.84" ybr="442.16">
+    </box>
+  </image>
+  <image id="224" name="image1725.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="320.05" ytl="352.68" xbr="356.89" ybr="447.42">
+    </box>
+  </image>
+  <image id="225" name="image1726.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="318.73" ytl="356.63" xbr="367.42" ybr="443.47">
+    </box>
+  </image>
+  <image id="226" name="image1727.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="320.05" ytl="354.00" xbr="362.16" ybr="444.79">
+    </box>
+  </image>
+  <image id="227" name="image1728.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="318.73" ytl="357.94" xbr="362.16" ybr="450.05">
+    </box>
+  </image>
+  <image id="228" name="image1729.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="321.36" ytl="356.63" xbr="364.79" ybr="446.10">
+    </box>
+  </image>
+  <image id="229" name="image1730.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="320.05" ytl="351.37" xbr="360.84" ybr="440.84">
+    </box>
+  </image>
+  <image id="230" name="image1731.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="314.79" ytl="350.05" xbr="368.74" ybr="436.89">
+    </box>
+  </image>
+  <image id="231" name="image1732.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="312.15" ytl="347.42" xbr="364.79" ybr="436.89">
+    </box>
+  </image>
+  <image id="232" name="image1733.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="313.47" ytl="354.00" xbr="356.89" ybr="436.89">
+    </box>
+  </image>
+  <image id="233" name="image1734.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="312.15" ytl="352.68" xbr="354.26" ybr="442.16">
+    </box>
+  </image>
+  <image id="234" name="image1735.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="310.84" ytl="357.94" xbr="359.52" ybr="442.16">
+    </box>
+  </image>
+  <image id="235" name="image1736.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="317.42" ytl="347.42" xbr="359.52" ybr="442.16">
+    </box>
+  </image>
+  <image id="236" name="image1737.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="317.42" ytl="355.31" xbr="363.47" ybr="438.21">
+    </box>
+  </image>
+  <image id="237" name="image1738.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="321.37" ytl="357.94" xbr="360.84" ybr="429.00">
+    </box>
+  </image>
+  <image id="238" name="image1739.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="318.73" ytl="354.00" xbr="350.31" ybr="432.95">
+    </box>
+  </image>
+  <image id="239" name="image1740.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="314.79" ytl="356.63" xbr="350.31" ybr="431.63">
+    </box>
+  </image>
+  <image id="240" name="image1741.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="312.15" ytl="357.95" xbr="352.94" ybr="435.58">
+    </box>
+  </image>
+  <image id="241" name="image1742.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="313.47" ytl="356.63" xbr="356.89" ybr="430.31">
+    </box>
+  </image>
+  <image id="242" name="image1743.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="313.47" ytl="352.68" xbr="354.26" ybr="438.21">
+    </box>
+  </image>
+  <image id="243" name="image1744.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="313.47" ytl="354.00" xbr="356.89" ybr="440.84">
+    </box>
+  </image>
+  <image id="244" name="image1745.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="314.79" ytl="356.63" xbr="351.63" ybr="431.63">
+    </box>
+  </image>
+  <image id="245" name="image1746.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="313.47" ytl="355.31" xbr="350.31" ybr="431.63">
+    </box>
+  </image>
+  <image id="246" name="image1747.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="313.47" ytl="359.26" xbr="356.89" ybr="438.21">
+    </box>
+  </image>
+  <image id="247" name="image1748.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="318.73" ytl="356.63" xbr="356.89" ybr="436.89">
+    </box>
+  </image>
+  <image id="248" name="image1749.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="314.79" ytl="357.94" xbr="351.63" ybr="427.68">
+    </box>
+  </image>
+  <image id="249" name="image1750.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="316.10" ytl="356.63" xbr="358.21" ybr="442.16">
+    </box>
+  </image>
+  <image id="250" name="image1751.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="322.68" ytl="359.26" xbr="360.84" ybr="442.16">
+    </box>
+  </image>
+  <image id="251" name="image1752.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="324.00" ytl="352.68" xbr="362.15" ybr="440.84">
+    </box>
+  </image>
+  <image id="252" name="image1753.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="322.68" ytl="363.21" xbr="370.05" ybr="432.95">
+    </box>
+  </image>
+  <image id="253" name="image1754.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="329.26" ytl="361.90" xbr="364.79" ybr="439.53">
+    </box>
+  </image>
+  <image id="254" name="image1755.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="327.94" ytl="355.31" xbr="368.73" ybr="438.21">
+    </box>
+  </image>
+  <image id="255" name="image1756.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="326.60" ytl="360.58" xbr="366.10" ybr="435.58">
+    </box>
+  </image>
+  <image id="256" name="image1757.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="325.31" ytl="357.95" xbr="364.79" ybr="438.21">
+    </box>
+  </image>
+  <image id="257" name="image1758.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="325.31" ytl="351.40" xbr="375.31" ybr="443.47">
+    </box>
+  </image>
+  <image id="258" name="image1759.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="327.94" ytl="356.63" xbr="372.68" ybr="447.42">
+    </box>
+  </image>
+  <image id="259" name="image1760.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="330.58" ytl="356.63" xbr="370.05" ybr="443.47">
+    </box>
+  </image>
+  <image id="260" name="image1761.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="329.26" ytl="361.90" xbr="371.37" ybr="438.21">
+    </box>
+  </image>
+  <image id="261" name="image1762.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="329.26" ytl="352.68" xbr="377.95" ybr="446.10">
+    </box>
+  </image>
+  <image id="262" name="image1763.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="325.31" ytl="359.26" xbr="371.37" ybr="443.47">
+    </box>
+  </image>
+  <image id="263" name="image1764.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="330.58" ytl="359.26" xbr="371.37" ybr="451.37">
+    </box>
+  </image>
+  <image id="264" name="image1765.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="327.94" ytl="354.00" xbr="370.05" ybr="454.00">
+    </box>
+  </image>
+  <image id="265" name="image1766.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="322.68" ytl="351.37" xbr="366.10" ybr="451.37">
+    </box>
+  </image>
+  <image id="266" name="image1767.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="324.00" ytl="356.63" xbr="371.37" ybr="446.10">
+    </box>
+  </image>
+  <image id="267" name="image1768.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="317.42" ytl="355.31" xbr="370.05" ybr="447.42">
+    </box>
+  </image>
+  <image id="268" name="image1769.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="314.79" ytl="357.90" xbr="360.84" ybr="438.21">
+    </box>
+  </image>
+  <image id="269" name="image1770.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="314.79" ytl="354.00" xbr="354.26" ybr="439.53">
+    </box>
+  </image>
+  <image id="270" name="image1771.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="304.26" ytl="356.63" xbr="345.05" ybr="439.53">
+    </box>
+  </image>
+  <image id="271" name="image1772.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="293.73" ytl="357.95" xbr="335.84" ybr="442.16">
+    </box>
+  </image>
+  <image id="272" name="image1773.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="291.10" ytl="354.00" xbr="334.52" ybr="443.47">
+    </box>
+  </image>
+  <image id="273" name="image1774.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="287.15" ytl="354.00" xbr="333.21" ybr="447.42">
+    </box>
+  </image>
+  <image id="274" name="image1775.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="295.05" ytl="357.94" xbr="331.89" ybr="451.37">
+    </box>
+  </image>
+  <image id="275" name="image1776.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="292.42" ytl="360.60" xbr="331.89" ybr="450.10">
+    </box>
+  </image>
+  <image id="276" name="image1777.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="292.42" ytl="354.00" xbr="329.26" ybr="432.95">
+    </box>
+  </image>
+  <image id="277" name="image1778.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="285.84" ytl="359.26" xbr="329.26" ybr="443.47">
+    </box>
+  </image>
+  <image id="278" name="image1779.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="287.15" ytl="352.68" xbr="327.94" ybr="443.47">
+    </box>
+  </image>
+  <image id="279" name="image1780.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="277.94" ytl="351.37" xbr="320.05" ybr="444.79">
+    </box>
+  </image>
+  <image id="280" name="image1781.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="276.63" ytl="354.00" xbr="317.42" ybr="440.84">
+    </box>
+  </image>
+  <image id="281" name="image1782.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="271.36" ytl="356.63" xbr="308.21" ybr="446.10">
+    </box>
+  </image>
+  <image id="282" name="image1783.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="267.42" ytl="352.68" xbr="306.89" ybr="447.42">
+    </box>
+  </image>
+  <image id="283" name="image1784.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="259.52" ytl="354.00" xbr="312.15" ybr="451.37">
+    </box>
+  </image>
+  <image id="284" name="image1785.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="259.52" ytl="351.37" xbr="299.00" ybr="443.47">
+    </box>
+  </image>
+  <image id="285" name="image1786.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="255.57" ytl="357.95" xbr="297.68" ybr="446.11">
+    </box>
+  </image>
+  <image id="286" name="image1787.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="246.36" ytl="352.68" xbr="296.36" ybr="461.89">
+    </box>
+  </image>
+  <image id="287" name="image1788.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="249.00" ytl="359.26" xbr="291.10" ybr="442.16">
+    </box>
+  </image>
+  <image id="288" name="image1789.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="246.36" ytl="356.63" xbr="293.73" ybr="452.68">
+    </box>
+  </image>
+  <image id="289" name="image1790.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="248.99" ytl="352.68" xbr="295.05" ybr="452.68">
+    </box>
+  </image>
+  <image id="290" name="image1791.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="241.10" ytl="351.37" xbr="285.84" ybr="454.00">
+    </box>
+  </image>
+  <image id="291" name="image1792.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="249.00" ytl="359.26" xbr="291.10" ybr="457.95">
+    </box>
+  </image>
+  <image id="292" name="image1793.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="243.73" ytl="357.90" xbr="283.21" ybr="456.63">
+    </box>
+  </image>
+  <image id="293" name="image1794.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="251.63" ytl="356.63" xbr="293.73" ybr="451.37">
+    </box>
+  </image>
+  <image id="294" name="image1795.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="249.00" ytl="359.26" xbr="299.00" ybr="446.10">
+    </box>
+  </image>
+  <image id="295" name="image1796.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="245.05" ytl="357.95" xbr="285.84" ybr="456.63">
+    </box>
+  </image>
+  <image id="296" name="image1797.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="245.05" ytl="367.16" xbr="293.73" ybr="451.37">
+    </box>
+  </image>
+  <image id="297" name="image1798.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="241.10" ytl="363.21" xbr="284.52" ybr="454.00">
+    </box>
+  </image>
+  <image id="298" name="image1799.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="241.10" ytl="359.26" xbr="288.47" ybr="454.00">
+    </box>
+  </image>
+  <image id="299" name="image1800.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="241.10" ytl="359.26" xbr="284.52" ybr="461.89">
+    </box>
+  </image>
+  <image id="300" name="image1801.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="241.10" ytl="360.58" xbr="292.42" ybr="460.58">
+    </box>
+  </image>
+  <image id="301" name="image1802.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="245.05" ytl="359.26" xbr="292.45" ybr="463.21">
+    </box>
+  </image>
+  <image id="302" name="image1803.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="241.10" ytl="359.26" xbr="283.21" ybr="463.21">
+    </box>
+  </image>
+  <image id="303" name="image1804.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="241.10" ytl="364.52" xbr="280.58" ybr="467.16">
+    </box>
+  </image>
+  <image id="304" name="image1805.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="235.84" ytl="361.89" xbr="277.94" ybr="464.53">
+    </box>
+  </image>
+  <image id="305" name="image1806.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="235.84" ytl="357.95" xbr="281.89" ybr="464.53">
+    </box>
+  </image>
+  <image id="306" name="image1807.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="230.57" ytl="361.89" xbr="277.94" ybr="468.47">
+    </box>
+  </image>
+  <image id="307" name="image1808.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="231.89" ytl="364.52" xbr="279.26" ybr="463.21">
+    </box>
+  </image>
+  <image id="308" name="image1809.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="229.26" ytl="363.21" xbr="275.31" ybr="459.26">
+    </box>
+  </image>
+  <image id="309" name="image1810.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="229.26" ytl="364.52" xbr="281.89" ybr="464.53">
+    </box>
+  </image>
+  <image id="310" name="image1811.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="235.84" ytl="367.16" xbr="280.57" ybr="469.79">
+    </box>
+  </image>
+  <image id="311" name="image1812.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="226.63" ytl="367.16" xbr="272.68" ybr="476.37">
+    </box>
+  </image>
+  <image id="312" name="image1813.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="227.94" ytl="363.21" xbr="271.36" ybr="456.63">
+    </box>
+  </image>
+  <image id="313" name="image1814.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="220.05" ytl="354.00" xbr="259.52" ybr="461.89">
+    </box>
+  </image>
+  <image id="314" name="image1815.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="222.68" ytl="359.26" xbr="259.52" ybr="459.26">
+    </box>
+  </image>
+  <image id="315" name="image1816.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="213.47" ytl="354.00" xbr="260.84" ybr="463.21">
+    </box>
+  </image>
+  <image id="316" name="image1817.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="213.47" ytl="351.37" xbr="266.10" ybr="467.16">
+    </box>
+  </image>
+  <image id="317" name="image1818.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="213.47" ytl="359.26" xbr="264.78" ybr="463.21">
+    </box>
+  </image>
+  <image id="318" name="image1819.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="209.52" ytl="367.16" xbr="259.52" ybr="473.74">
+    </box>
+  </image>
+  <image id="319" name="image1820.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="208.20" ytl="364.52" xbr="254.26" ybr="473.74">
+    </box>
+  </image>
+  <image id="320" name="image1821.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="212.15" ytl="361.89" xbr="254.26" ybr="473.74">
+    </box>
+  </image>
+  <image id="321" name="image1822.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="208.21" ytl="363.21" xbr="258.21" ybr="472.42">
+    </box>
+  </image>
+  <image id="322" name="image1823.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="204.26" ytl="364.52" xbr="251.63" ybr="477.68">
+    </box>
+  </image>
+  <image id="323" name="image1824.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="201.63" ytl="361.89" xbr="251.63" ybr="482.95">
+    </box>
+  </image>
+  <image id="324" name="image1825.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="206.89" ytl="363.21" xbr="255.57" ybr="479.00">
+    </box>
+  </image>
+  <image id="325" name="image1826.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="204.26" ytl="361.89" xbr="251.63" ybr="477.68">
+    </box>
+  </image>
+  <image id="326" name="image1827.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="204.26" ytl="364.52" xbr="251.63" ybr="475.05">
+    </box>
+  </image>
+  <image id="327" name="image1828.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="202.94" ytl="367.16" xbr="250.31" ybr="482.95">
+    </box>
+  </image>
+  <image id="328" name="image1829.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="197.68" ytl="364.52" xbr="250.31" ybr="482.95">
+    </box>
+  </image>
+  <image id="329" name="image1830.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="201.62" ytl="368.47" xbr="248.99" ybr="494.79">
+    </box>
+  </image>
+  <image id="330" name="image1831.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="204.26" ytl="363.21" xbr="256.89" ybr="475.05">
+    </box>
+  </image>
+  <image id="331" name="image1832.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="196.36" ytl="369.79" xbr="250.31" ybr="490.80">
+    </box>
+  </image>
+  <image id="332" name="image1833.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="201.62" ytl="364.52" xbr="250.31" ybr="480.32">
+    </box>
+  </image>
+  <image id="333" name="image1834.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="193.73" ytl="368.47" xbr="243.73" ybr="490.84">
+    </box>
+  </image>
+  <image id="334" name="image1835.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="193.73" ytl="369.79" xbr="248.99" ybr="475.05">
+    </box>
+  </image>
+  <image id="335" name="image1836.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="187.15" ytl="373.73" xbr="241.10" ybr="485.58">
+    </box>
+  </image>
+  <image id="336" name="image1837.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="187.15" ytl="373.73" xbr="238.47" ybr="484.26">
+    </box>
+  </image>
+  <image id="337" name="image1838.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="184.52" ytl="368.47" xbr="234.52" ybr="496.11">
+    </box>
+  </image>
+  <image id="338" name="image1839.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="180.57" ytl="371.10" xbr="227.94" ybr="480.32">
+    </box>
+  </image>
+  <image id="339" name="image1840.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="180.57" ytl="371.10" xbr="233.23" ybr="489.50">
+    </box>
+  </image>
+  <image id="340" name="image1841.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="179.26" ytl="377.68" xbr="227.93" ybr="482.95">
+    </box>
+  </image>
+  <image id="341" name="image1842.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="171.36" ytl="376.37" xbr="216.10" ybr="486.89">
+    </box>
+  </image>
+  <image id="342" name="image1843.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="172.68" ytl="369.79" xbr="214.78" ybr="482.95">
+    </box>
+  </image>
+  <image id="343" name="image1844.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="164.78" ytl="385.58" xbr="213.47" ybr="484.26">
+    </box>
+  </image>
+  <image id="344" name="image1845.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="166.10" ytl="377.68" xbr="209.52" ybr="479.00">
+    </box>
+  </image>
+  <image id="345" name="image1846.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="160.83" ytl="385.58" xbr="213.47" ybr="494.79">
+    </box>
+  </image>
+  <image id="346" name="image1847.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="166.10" ytl="375.05" xbr="209.52" ybr="485.58">
+    </box>
+  </image>
+  <image id="347" name="image1848.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="164.78" ytl="379.00" xbr="214.78" ybr="484.26">
+    </box>
+  </image>
+  <image id="348" name="image1849.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="164.78" ytl="377.68" xbr="208.20" ybr="480.32">
+    </box>
+  </image>
+  <image id="349" name="image1850.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="156.89" ytl="380.31" xbr="206.89" ybr="489.53">
+    </box>
+  </image>
+  <image id="350" name="image1851.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="154.26" ytl="379.00" xbr="208.21" ybr="500.05">
+    </box>
+  </image>
+  <image id="351" name="image1852.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="155.57" ytl="372.42" xbr="198.99" ybr="496.11">
+    </box>
+  </image>
+  <image id="352" name="image1853.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="147.68" ytl="382.95" xbr="195.05" ybr="497.42">
+    </box>
+  </image>
+  <image id="353" name="image1854.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="143.73" ytl="385.58" xbr="197.68" ybr="493.47">
+    </box>
+  </image>
+  <image id="354" name="image1855.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="146.36" ytl="384.26" xbr="192.41" ybr="493.47">
+    </box>
+  </image>
+  <image id="355" name="image1856.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="145.05" ytl="385.58" xbr="191.10" ybr="509.26">
+    </box>
+  </image>
+  <image id="356" name="image1857.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="141.10" ytl="380.31" xbr="187.15" ybr="504.00">
+    </box>
+  </image>
+  <image id="357" name="image1858.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="135.83" ytl="379.00" xbr="183.20" ybr="502.69">
+    </box>
+  </image>
+  <image id="358" name="image1859.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="130.57" ytl="380.31" xbr="180.57" ybr="519.79">
+    </box>
+  </image>
+  <image id="359" name="image1860.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="134.52" ytl="384.26" xbr="177.94" ybr="506.63">
+    </box>
+  </image>
+  <image id="360" name="image1861.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="133.20" ytl="389.52" xbr="188.47" ybr="501.37">
+    </box>
+  </image>
+  <image id="361" name="image1862.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="138.47" ytl="382.95" xbr="185.84" ybr="490.84">
+    </box>
+  </image>
+  <image id="362" name="image1863.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="138.47" ytl="382.95" xbr="183.20" ybr="504.00">
+    </box>
+  </image>
+  <image id="363" name="image1864.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="133.20" ytl="384.26" xbr="180.57" ybr="506.63">
+    </box>
+  </image>
+  <image id="364" name="image1865.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="127.94" ytl="379.00" xbr="177.94" ybr="501.37">
+    </box>
+  </image>
+  <image id="365" name="image1866.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="127.94" ytl="380.31" xbr="185.84" ybr="506.63">
+    </box>
+  </image>
+  <image id="366" name="image1867.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="127.94" ytl="393.47" xbr="175.31" ybr="511.90">
+    </box>
+  </image>
+  <image id="367" name="image1868.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="127.94" ytl="384.26" xbr="191.10" ybr="522.42">
+    </box>
+  </image>
+  <image id="368" name="image1869.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="130.57" ytl="382.95" xbr="183.20" ybr="506.63">
+    </box>
+  </image>
+  <image id="369" name="image1870.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="130.57" ytl="386.90" xbr="183.20" ybr="519.79">
+    </box>
+  </image>
+  <image id="370" name="image1871.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="125.31" ytl="385.58" xbr="177.94" ybr="519.79">
+    </box>
+  </image>
+  <image id="371" name="image1872.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="133.20" ytl="382.95" xbr="185.84" ybr="505.32">
+    </box>
+  </image>
+  <image id="372" name="image1873.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="129.25" ytl="380.31" xbr="187.15" ybr="510.58">
+    </box>
+  </image>
+  <image id="373" name="image1874.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="123.99" ytl="382.95" xbr="181.89" ybr="519.79">
+    </box>
+  </image>
+  <image id="374" name="image1875.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="133.20" ytl="385.58" xbr="187.15" ybr="509.26">
+    </box>
+  </image>
+  <image id="375" name="image1876.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="133.20" ytl="382.95" xbr="181.89" ybr="519.79">
+    </box>
+  </image>
+  <image id="376" name="image1877.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="130.57" ytl="380.31" xbr="185.83" ybr="509.26">
+    </box>
+  </image>
+  <image id="377" name="image1878.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="134.52" ytl="380.32" xbr="196.40" ybr="515.84">
+    </box>
+  </image>
+  <image id="378" name="image1879.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="135.83" ytl="384.26" xbr="189.78" ybr="518.48">
+    </box>
+  </image>
+  <image id="379" name="image1880.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="134.52" ytl="382.95" xbr="185.84" ybr="526.37">
+    </box>
+  </image>
+  <image id="380" name="image1881.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="131.89" ytl="385.58" xbr="185.84" ybr="504.00">
+    </box>
+  </image>
+  <image id="381" name="image1882.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="134.52" ytl="389.52" xbr="196.36" ybr="511.90">
+    </box>
+  </image>
+  <image id="382" name="image1883.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="130.57" ytl="393.47" xbr="193.73" ybr="514.53">
+    </box>
+  </image>
+  <image id="383" name="image1884.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="138.47" ytl="394.79" xbr="192.41" ybr="522.42">
+    </box>
+  </image>
+  <image id="384" name="image1885.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="133.20" ytl="384.26" xbr="185.84" ybr="510.58">
+    </box>
+  </image>
+  <image id="385" name="image1886.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="133.20" ytl="384.26" xbr="188.47" ybr="514.53">
+    </box>
+  </image>
+  <image id="386" name="image1887.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="127.94" ytl="379.00" xbr="185.84" ybr="517.16">
+    </box>
+  </image>
+  <image id="387" name="image1888.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="130.57" ytl="375.05" xbr="181.89" ybr="514.53">
+    </box>
+  </image>
+  <image id="388" name="image1889.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="129.25" ytl="377.68" xbr="177.94" ybr="509.26">
+    </box>
+  </image>
+  <image id="389" name="image1890.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="122.68" ytl="371.10" xbr="175.31" ybr="515.84">
+    </box>
+  </image>
+  <image id="390" name="image1891.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="118.73" ytl="375.05" xbr="170.05" ybr="526.37">
+    </box>
+  </image>
+  <image id="391" name="image1892.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="122.68" ytl="372.42" xbr="177.94" ybr="519.79">
+    </box>
+  </image>
+  <image id="392" name="image1893.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="114.78" ytl="377.68" xbr="172.68" ybr="514.53">
+    </box>
+  </image>
+  <image id="393" name="image1894.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="98.99" ytl="384.26" xbr="156.89" ybr="532.95">
+    </box>
+  </image>
+  <image id="394" name="image1895.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="102.94" ytl="389.52" xbr="151.62" ybr="517.16">
+    </box>
+  </image>
+  <image id="395" name="image1896.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="91.10" ytl="381.63" xbr="143.73" ybr="525.05">
+    </box>
+  </image>
+  <image id="396" name="image1897.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="91.10" ytl="385.58" xbr="143.73" ybr="538.21">
+    </box>
+  </image>
+  <image id="397" name="image1898.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="83.20" ytl="380.31" xbr="134.52" ybr="536.90">
+    </box>
+  </image>
+  <image id="398" name="image1899.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="76.65" ytl="392.16" xbr="126.65" ybr="534.30">
+    </box>
+  </image>
+  <image id="399" name="image1900.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="76.62" ytl="390.84" xbr="133.20" ybr="526.37">
+    </box>
+  </image>
+  <image id="400" name="image1901.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="71.36" ytl="393.47" xbr="125.31" ybr="530.32">
+    </box>
+  </image>
+  <image id="401" name="image1902.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="66.10" ytl="394.79" xbr="118.73" ybr="547.42">
+    </box>
+  </image>
+  <image id="402" name="image1903.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="64.78" ytl="401.37" xbr="125.31" ybr="543.48">
+    </box>
+  </image>
+  <image id="403" name="image1904.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="60.83" ytl="394.80" xbr="117.41" ybr="551.37">
+    </box>
+  </image>
+  <image id="404" name="image1905.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="50.31" ytl="405.31" xbr="108.20" ybr="552.69">
+    </box>
+  </image>
+  <image id="405" name="image1906.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="39.78" ytl="409.26" xbr="106.89" ybr="556.63">
+    </box>
+  </image>
+  <image id="406" name="image1907.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="29.25" ytl="414.50" xbr="93.70" ybr="557.95">
+    </box>
+  </image>
+  <image id="407" name="image1908.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="23.99" ytl="396.10" xbr="88.46" ybr="567.16">
+    </box>
+  </image>
+  <image id="408" name="image1909.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="12.15" ytl="410.58" xbr="80.57" ybr="582.95">
+    </box>
+  </image>
+  <image id="409" name="image1910.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="8.20" ytl="411.89" xbr="77.94" ybr="596.11">
+    </box>
+  </image>
+  <image id="410" name="image1911.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="6.88" ytl="419.79" xbr="66.10" ybr="604.00">
+    </box>
+  </image>
+  <image id="411" name="image1912.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="2.94" ytl="421.10" xbr="59.52" ybr="621.11">
+    </box>
+  </image>
+  <image id="412" name="image1913.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="0.00" ytl="423.73" xbr="58.20" ybr="605.32">
+    </box>
+  </image>
+  <image id="415" name="image1916.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="443.74" ytl="343.47" xbr="466.10" ybr="385.58">
+    </box>
+  </image>
+  <image id="416" name="image1917.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="435.84" ytl="359.30" xbr="454.26" ybr="394.79">
+    </box>
+  </image>
+  <image id="417" name="image1918.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="427.95" ytl="363.20" xbr="445.05" ybr="398.74">
+    </box>
+  </image>
+  <image id="418" name="image1919.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="400.31" ytl="359.26" xbr="437.16" ybr="418.47">
+    </box>
+  </image>
+  <image id="419" name="image1920.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="422.68" ytl="367.16" xbr="441.11" ybr="411.89">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="385.84" ytl="368.47" xbr="412.16" ybr="427.68">
+    </box>
+  </image>
+  <image id="420" name="image1921.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="406.89" ytl="373.73" xbr="429.26" ybr="438.21">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="366.10" ytl="375.05" xbr="391.10" ybr="459.26">
+    </box>
+  </image>
+  <image id="421" name="image1922.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="302.94" ytl="401.37" xbr="335.84" ybr="500.05">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="364.79" ytl="393.47" xbr="388.47" ybr="479.00">
+    </box>
+  </image>
+  <image id="422" name="image1923.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="218.73" ytl="431.63" xbr="262.15" ybr="572.42">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="317.42" ytl="414.52" xbr="355.58" ybr="515.84">
+    </box>
+  </image>
+  <image id="423" name="image1924.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="146.36" ytl="593.48" xbr="208.20" ybr="694.79">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="164.78" ytl="489.53" xbr="206.89" ybr="580.32">
+    </box>
+  </image>
+  <image id="436" name="image1937.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="0.00" ytl="688.21" xbr="46.36" ybr="764.53">
+    </box>
+  </image>
+  <image id="437" name="image1938.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="0.00" ytl="677.69" xbr="75.31" ybr="763.22">
+    </box>
+  </image>
+  <image id="438" name="image1939.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="1.62" ytl="654.00" xbr="70.04" ybr="763.22">
+    </box>
+  </image>
+  <image id="439" name="image1940.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="2.94" ytl="659.27" xbr="76.62" ybr="759.27">
+    </box>
+  </image>
+  <image id="440" name="image1941.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="2.94" ytl="648.74" xbr="97.68" ybr="764.53">
+    </box>
+  </image>
+  <image id="441" name="image1942.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="0.00" ytl="643.48" xbr="85.83" ybr="764.53">
+    </box>
+  </image>
+  <image id="442" name="image1943.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="1.62" ytl="631.64" xbr="109.52" ybr="759.27">
+    </box>
+  </image>
+  <image id="443" name="image1944.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="25.31" ytl="635.58" xbr="125.31" ybr="761.90">
+    </box>
+  </image>
+  <image id="444" name="image1945.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="34.52" ytl="626.37" xbr="123.99" ybr="763.22">
+    </box>
+  </image>
+  <image id="445" name="image1946.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="43.73" ytl="619.79" xbr="133.20" ybr="763.22">
+    </box>
+  </image>
+  <image id="446" name="image1947.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="0.31" ytl="607.95" xbr="35.83" ybr="744.80">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="46.36" ytl="607.95" xbr="135.83" ybr="760.58">
+    </box>
+  </image>
+  <image id="447" name="image1948.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="54.25" ytl="606.63" xbr="130.57" ybr="759.27">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="0.00" ytl="601.37" xbr="27.94" ybr="748.74">
+    </box>
+  </image>
+  <image id="448" name="image1949.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="58.20" ytl="594.79" xbr="121.36" ybr="759.27">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="0.00" ytl="593.48" xbr="39.78" ybr="748.74">
+    </box>
+  </image>
+  <image id="449" name="image1950.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="0.00" ytl="589.53" xbr="41.09" ybr="746.11">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="56.89" ytl="600.05" xbr="130.57" ybr="768.00">
+    </box>
+  </image>
+  <image id="450" name="image1951.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="66.10" ytl="590.84" xbr="130.57" ybr="746.11">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="2.94" ytl="582.95" xbr="41.10" ybr="744.80">
+    </box>
+  </image>
+  <image id="451" name="image1952.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="4.25" ytl="577.69" xbr="59.52" ybr="743.48">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="66.10" ytl="577.69" xbr="131.89" ybr="746.11">
+    </box>
+  </image>
+  <image id="452" name="image1953.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="0.00" ytl="572.42" xbr="64.78" ybr="719.80">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="67.41" ytl="572.42" xbr="127.94" ybr="731.64">
+    </box>
+  </image>
+  <image id="453" name="image1954.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="14.78" ytl="572.42" xbr="64.78" ybr="717.16">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="71.36" ytl="577.69" xbr="126.58" ybr="715.85">
+    </box>
+  </image>
+  <image id="454" name="image1955.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="10.83" ytl="569.79" xbr="66.10" ybr="706.64">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="72.68" ytl="579.00" xbr="127.94" ybr="709.27">
+    </box>
+  </image>
+  <image id="455" name="image1956.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="72.68" ytl="567.16" xbr="122.68" ybr="704.01">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="14.78" ytl="568.48" xbr="70.04" ybr="701.37">
+    </box>
+  </image>
+  <image id="456" name="image1957.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="77.94" ytl="559.26" xbr="131.89" ybr="705.32">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="23.99" ytl="559.27" xbr="75.31" ybr="706.64">
+    </box>
+  </image>
+  <image id="457" name="image1958.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="27.94" ytl="563.21" xbr="72.68" ybr="696.11">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="80.57" ytl="563.21" xbr="130.57" ybr="690.85">
+    </box>
+  </image>
+  <image id="458" name="image1959.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="83.20" ytl="565.84" xbr="134.52" ybr="682.95">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="27.94" ytl="567.16" xbr="77.94" ybr="689.53">
+    </box>
+  </image>
+  <image id="459" name="image1960.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="31.88" ytl="561.90" xbr="84.52" ybr="689.53">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="92.41" ytl="557.95" xbr="139.78" ybr="688.22">
+    </box>
+  </image>
+  <image id="460" name="image1961.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="38.46" ytl="557.95" xbr="96.36" ybr="682.95">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="96.36" ytl="556.63" xbr="143.73" ybr="685.58">
+    </box>
+  </image>
+  <image id="461" name="image1962.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="43.73" ytl="552.69" xbr="97.68" ybr="672.43">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="98.99" ytl="554.00" xbr="141.10" ybr="680.32">
+    </box>
+  </image>
+  <image id="462" name="image1963.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="46.36" ytl="557.95" xbr="91.10" ybr="668.48">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="98.99" ytl="557.95" xbr="138.47" ybr="672.40">
+    </box>
+  </image>
+  <image id="463" name="image1964.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="55.57" ytl="554.00" xbr="96.36" ybr="661.90">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="101.62" ytl="552.69" xbr="138.47" ybr="659.27">
+    </box>
+  </image>
+  <image id="464" name="image1965.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="101.62" ytl="547.42" xbr="141.10" ybr="669.79">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="60.83" ytl="552.69" xbr="98.99" ybr="668.48">
+    </box>
+  </image>
+  <image id="465" name="image1966.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="102.94" ytl="548.74" xbr="141.10" ybr="657.95">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="66.10" ytl="552.69" xbr="101.62" ybr="654.00">
+    </box>
+  </image>
+  <image id="466" name="image1967.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="98.99" ytl="546.11" xbr="130.57" ybr="659.27">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="66.10" ytl="552.69" xbr="98.99" ybr="647.43">
+    </box>
+  </image>
+  <image id="467" name="image1968.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="92.41" ytl="535.58" xbr="133.20" ybr="642.16">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="64.78" ytl="548.74" xbr="104.25" ybr="661.90">
+    </box>
+  </image>
+  <image id="468" name="image1969.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="64.78" ytl="546.11" xbr="106.89" ybr="646.11">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="97.68" ytl="531.63" xbr="133.20" ybr="643.48">
+    </box>
+  </image>
+  <image id="469" name="image1970.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="102.94" ytl="547.42" xbr="135.83" ybr="640.85">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="66.10" ytl="546.11" xbr="101.62" ybr="646.11">
+    </box>
+  </image>
+  <image id="470" name="image1971.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="71.36" ytl="540.84" xbr="108.20" ybr="636.90">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="104.25" ytl="543.48" xbr="134.52" ybr="627.69">
+    </box>
+  </image>
+  <image id="471" name="image1972.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="75.31" ytl="536.90" xbr="102.94" ybr="631.63">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="104.25" ytl="536.90" xbr="134.52" ybr="630.32">
+    </box>
+  </image>
+  <image id="472" name="image1973.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="70.04" ytl="532.95" xbr="104.25" ybr="632.95">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="106.89" ytl="532.95" xbr="139.78" ybr="635.58">
+    </box>
+  </image>
+  <image id="473" name="image1974.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="109.52" ytl="543.48" xbr="145.05" ybr="625.06">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="71.36" ytl="532.95" xbr="101.62" ybr="635.58">
+    </box>
+  </image>
+  <image id="474" name="image1975.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="76.62" ytl="529.00" xbr="112.15" ybr="631.63">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="113.47" ytl="540.84" xbr="145.05" ybr="630.32">
+    </box>
+  </image>
+  <image id="475" name="image1976.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="106.89" ytl="535.58" xbr="150.31" ybr="617.16">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="67.41" ytl="540.84" xbr="105.57" ybr="617.20">
+    </box>
+  </image>
+  <image id="476" name="image1977.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="75.31" ytl="535.58" xbr="108.20" ybr="615.85">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="114.78" ytl="530.32" xbr="150.31" ybr="621.11">
+    </box>
+  </image>
+  <image id="477" name="image1978.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="112.15" ytl="531.63" xbr="148.99" ybr="611.90">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="72.68" ytl="525.05" xbr="108.20" ybr="622.42">
+    </box>
+  </image>
+  <image id="478" name="image1979.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="76.62" ytl="536.90" xbr="112.15" ybr="617.16">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="114.78" ytl="527.68" xbr="150.31" ybr="614.53">
+    </box>
+  </image>
+  <image id="479" name="image1980.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="118.73" ytl="531.63" xbr="148.99" ybr="618.48">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="76.49" ytl="530.32" xbr="110.80" ybr="615.80">
+    </box>
+  </image>
+  <image id="480" name="image1981.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="118.73" ytl="531.63" xbr="150.31" ybr="605.32">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="70.04" ytl="531.63" xbr="112.15" ybr="606.64">
+    </box>
+  </image>
+  <image id="481" name="image1982.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="123.99" ytl="527.68" xbr="158.20" ybr="615.80">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="75.31" ytl="535.58" xbr="109.52" ybr="615.85">
+    </box>
+  </image>
+  <image id="482" name="image1983.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="122.68" ytl="525.05" xbr="155.61" ybr="598.70">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="76.62" ytl="531.63" xbr="109.52" ybr="610.58">
+    </box>
+  </image>
+  <image id="483" name="image1984.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="70.04" ytl="532.95" xbr="109.52" ybr="602.69">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="125.31" ytl="526.37" xbr="168.73" ybr="601.37">
+    </box>
+  </image>
+  <image id="484" name="image1985.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="123.99" ytl="525.05" xbr="162.15" ybr="605.32">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="71.36" ytl="515.84" xbr="109.52" ybr="606.63">
+    </box>
+  </image>
+  <image id="485" name="image1986.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="135.83" ytl="525.05" xbr="170.05" ybr="601.37">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="76.62" ytl="530.32" xbr="106.89" ybr="584.26">
+    </box>
+  </image>
+  <image id="486" name="image1987.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="134.52" ytl="526.37" xbr="171.36" ybr="598.74">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="80.57" ytl="525.05" xbr="112.15" ybr="594.79">
+    </box>
+  </image>
+  <image id="487" name="image1988.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="81.89" ytl="525.05" xbr="105.55" ybr="594.82">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="142.41" ytl="525.05" xbr="168.73" ybr="592.16">
+    </box>
+  </image>
+  <image id="488" name="image1989.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="135.83" ytl="514.53" xbr="172.68" ybr="593.48">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="81.89" ytl="519.79" xbr="114.78" ybr="594.79">
+    </box>
+  </image>
+  <image id="489" name="image1990.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="88.46" ytl="514.53" xbr="123.99" ybr="590.84">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="150.31" ytl="511.90" xbr="177.94" ybr="585.58">
+    </box>
+  </image>
+  <image id="490" name="image1991.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="87.15" ytl="525.05" xbr="125.31" ybr="600.06">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="145.05" ytl="514.53" xbr="177.94" ybr="604.00">
+    </box>
+  </image>
+  <image id="491" name="image1992.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="92.40" ytl="514.53" xbr="124.00" ybr="596.11">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="145.05" ytl="522.42" xbr="176.63" ybr="594.79">
+    </box>
+  </image>
+  <image id="492" name="image1993.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="96.36" ytl="519.79" xbr="127.94" ybr="594.79">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="143.73" ytl="509.26" xbr="177.94" ybr="600.06">
+    </box>
+  </image>
+  <image id="493" name="image1994.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="92.41" ytl="511.90" xbr="130.57" ybr="590.84">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="143.73" ytl="511.90" xbr="175.31" ybr="598.74">
+    </box>
+  </image>
+  <image id="494" name="image1995.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="144.91" ytl="519.70" xbr="177.92" ybr="589.50">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="96.36" ytl="513.20" xbr="130.57" ybr="590.80">
+    </box>
+  </image>
+  <image id="495" name="image1996.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="150.31" ytl="514.53" xbr="176.62" ybr="582.95">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="100.31" ytl="515.84" xbr="129.26" ybr="590.84">
+    </box>
+  </image>
+  <image id="496" name="image1997.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="106.89" ytl="511.90" xbr="134.52" ybr="577.69">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="151.62" ytl="522.46" xbr="183.20" ybr="582.95">
+    </box>
+  </image>
+  <image id="497" name="image1998.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="101.62" ytl="510.58" xbr="138.47" ybr="589.53">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="150.31" ytl="514.53" xbr="175.31" ybr="584.27">
+    </box>
+  </image>
+  <image id="498" name="image1999.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="106.89" ytl="509.26" xbr="138.47" ybr="579.00">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="146.36" ytl="504.00" xbr="180.57" ybr="582.95">
+    </box>
+  </image>
+  <image id="499" name="image2000.jpg" width="1024" height="768">
+    <box label="agentSNCF" occluded="0" xtl="105.57" ytl="507.95" xbr="137.15" ybr="577.70">
+    </box>
+    <box label="agentSNCF" occluded="0" xtl="145.05" ytl="511.90" xbr="177.94" ybr="584.27">
+    </box>
+  </image>
+</annotations>
